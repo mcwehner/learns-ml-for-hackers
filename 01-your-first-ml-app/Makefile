@@ -1,11 +1,11 @@
 models	:= dnn_model linear_model
 
-.PHONY: all
 all: $(models)
+
+clean:
+	rm -rf $(models)
 
 $(models):
 	python train_$@.py
 
-.PHONY: clean
-clean:
-	rm -rf $(models)
+.PHONY: all clean
