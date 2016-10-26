@@ -3,6 +3,8 @@
 In which the author explores [Machine Learning for Hackers][] from [Sirajology][].
 
 
+Related [Machine Learning for Hackers][] videos on [YouTube](https://www.youtube.com):
+
 * [Your First ML App - Machine Learning for Hackers #1](https://youtu.be/2FOXR16mLow)
 * [Build an AI Composer - Machine Learning for Hackers #2](https://youtu.be/S_f2qV2_U00)
 * [Tensorboard Explained in 5 Min](https://youtu.be/3bownM3L5zM)
